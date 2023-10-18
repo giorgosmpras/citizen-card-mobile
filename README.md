@@ -1,1 +1,2 @@
-Mobile app for client dimotis with graphics and no function
+Mobile application for citizen. For more information check documentation!
+
